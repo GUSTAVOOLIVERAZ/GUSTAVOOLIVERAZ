@@ -6,8 +6,6 @@
 
 ---
 
-## 🧠 Sobre mim
-
 - 🎓 Estudante de Tecnologia da Informação.
 - 🏫 Colégio Santo Inácio - Botafogo/RJ.
 - 👨‍💻 Atuando como Assistente de Tecnologia (Sistemas).
@@ -26,7 +24,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GUSTAVOOLIVERAZ&layout=compact&theme=tokyonight" alt="Top Langs"/>
 </p>
 
-> ⚡ *Substitua `seu-usuario` pelo seu nome de usuário real do GitHub!*
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GUSTAVOOLIVERAZ&theme=tokyonight" alt="GitHub Streak"/>
+</p>
 
 ---
 
@@ -39,7 +39,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blade/blade-original.svg" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40"/>
